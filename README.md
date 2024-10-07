@@ -223,7 +223,7 @@ public class Main {
         0
         ```
 
-3. Тест на `(X > A || X > B || X > C) && (X <= A + B) && (X > A + B + C`:
+3. Тест на `(X > A || X > B || X > C) && (X <= A + B) && (X > A + B + C)`:
 
     - **Input**:
         ```
